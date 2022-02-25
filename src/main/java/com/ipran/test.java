@@ -8,5 +8,6 @@ public class test {
         System.out.println("push");
         System.out.println("push on intnent 111112312312311asdsadasd");
         System.out.println("push on intnent 111112312312311a13sdsdsad1234");
+        System.out.println("print in gitee");
     }
 }
